@@ -1,0 +1,10 @@
+body{
+    color: yellow;
+    background: purple;
+    }
+    
+    header{
+    border-bottom:solid 4px lime; 
+    padding: 20px;
+    font-size: 30px;
+    }
